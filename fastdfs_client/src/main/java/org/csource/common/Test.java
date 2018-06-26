@@ -17,6 +17,7 @@ public class NameValuePair
 {
     protected String name;
     protected String value;
+	protected String test2;
 	protected String test;
 
     public NameValuePair()
